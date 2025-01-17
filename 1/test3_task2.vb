@@ -19,8 +19,5 @@ Module Module1
 
         ' Вывод результата
         Console.WriteLine("Результат y: " & y)
-
-        ' Ожидание нажатия клавиши для завершения программы
-        Console.ReadKey()
     End Sub
 End Module
